@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Monster Run 3D</string>
-    <string name="game_instruction">A Boy is Running! A Monster is Chasing!</string>
+    <string name="score_text">Score: %d</string>
+    <string name="time_text">Time: %d</string>
+    <string name="game_over">GAME OVER! Final Score: %d</string>
 </resources>
